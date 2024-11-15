@@ -1,0 +1,10 @@
+<svg width="1600px" height="1200px" viewBox="0 0 1600 1600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1600" height="1600" fill="#1C1C3A"/>
+  
+  <!-- "A" in After Effects -->
+  <text x="380" y="1000" font-family="Arial, sans-serif" font-weight="bold" font-size="800" fill="#9997D1">A</text>
+  
+  <!-- "e" in After Effects -->
+  <text x="900" y="1000" font-family="Arial, sans-serif" font-weight="bold" font-size="800" fill="#9997D1">e</text>
+</svg>

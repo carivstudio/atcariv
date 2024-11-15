@@ -1,0 +1,16 @@
+<svg width="1600px" height="1200px" viewBox="0 0 1600 1600" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <circle cx="800" cy="800" r="750" fill="#282828"/>
+
+  <!-- Top circle -->
+  <circle cx="800" cy="500" r="300" fill="#FF6C00"/>
+
+  <!-- Bottom left circle -->
+  <circle cx="500" cy="1100" r="300" fill="#00C2FF"/>
+
+  <!-- Bottom right circle -->
+  <circle cx="1100" cy="1100" r="300" fill="#FFC700"/>
+
+  <!-- Center smaller circle -->
+  <circle cx="800" cy="850" r="150" fill="#FFFFFF"/>
+</svg>
